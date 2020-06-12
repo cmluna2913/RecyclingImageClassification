@@ -182,6 +182,6 @@ def show_img(path, img_size):
     plt.imshow(resize_img_arr)
     return resize_img_arr
 
-Arturo data test things idk 
-Umar data test   things idkda
+#Arturo data test things idk 
+#Umar data test   things idkda
 
