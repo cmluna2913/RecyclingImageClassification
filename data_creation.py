@@ -6,3 +6,4 @@ import cv2
 import pickle
 import random
 
+Arturo data test things idk 
