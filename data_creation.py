@@ -181,3 +181,7 @@ def show_img(path, img_size):
     resize_img_arr=cv2.resize(img_rgb, (img_size,img_size))
     plt.imshow(resize_img_arr)
     return resize_img_arr
+
+Arturo data test things idk 
+Umar data test   things idkda
+
