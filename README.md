@@ -7,7 +7,18 @@ more efficient.
 ---
 
 # Table of Contents
+- [Walkthrough](#Walkthrough)
 - [Contributors](#Contributors)
+
+---
+
+# Walkthrough
+- *data_creation.py*
+  The file that has functions for turning the images into a useable format and 
+  for exporting and importing data sets. It turns images into arrays with a way
+  of using either grayscale or colored images. The functions for exporting and
+  importing sets relies on pickle to do so. This was taken from Cristian's
+  [Fruit Image Recognition Project.](https://github.com/cmluna2913/FruitImageRecognition)
 
 ---
 
